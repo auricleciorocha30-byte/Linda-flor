@@ -1,0 +1,7 @@
+{
+  "name": "Linda flor - Nuvemshop Style Flower Shop",
+  "description": "A high-end e-commerce platform for a florist, featuring a product catalog, shopping cart, AI-powered gift message generator, and plant care assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
