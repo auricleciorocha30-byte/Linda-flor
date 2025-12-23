@@ -8,8 +8,8 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
           <div className="space-y-4">
             <h3 className="text-2xl font-serif font-bold">
-              <span className="text-rose-400">Linda</span>
-              <span className="text-emerald-400 ml-1">Flor</span>
+              <span className="text-red-400">Linda</span>
+              <span className="text-green-400 ml-1">Flor</span>
             </h3>
             <p className="text-emerald-200/70 text-sm">Entregando sentimentos em forma de flores desde 2010. Qualidade e frescor garantidos em cada arranjo.</p>
           </div>
@@ -48,11 +48,6 @@ const Footer: React.FC = () => {
           <p>&copy; 2024 Linda Flor Floricultura. Todos os direitos reservados.</p>
           <div className="flex items-center gap-6">
             <span>Desenvolvido com ❤️ por Gemini AI</span>
-            <div className="flex gap-3">
-              <div className="w-8 h-5 bg-emerald-900 rounded"></div>
-              <div className="w-8 h-5 bg-emerald-900 rounded"></div>
-              <div className="w-8 h-5 bg-emerald-900 rounded"></div>
-            </div>
           </div>
         </div>
       </div>
